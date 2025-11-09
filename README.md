@@ -42,4 +42,3 @@ This project is deployed on Vercel and uses Vercel's serverless functions for th
 - **Data Parsing**: PapaParse (for CSV parsing)
 - **Validation**: Zod (for schema validation)
 - **Build**: Vite with `vite-plugin-singlefile` to bundle everything into a single HTML file
-# carcanvas-chatgpt
